@@ -23,3 +23,8 @@ Pour visualiser ce projet sur votre machine locale :
 1. Clonez le repository :
    ```bash
    git clone https://github.com/MinaELKH/beldi.git
+
+
+## Lien
+  Figma : https://www.figma.com/design/zxFuswyQGJMu8eRJdDjMb3/beldi-restaurant-codebenders-6709405e07cab476321161-(Copy)-(Copy)?node-id=2031-81&t=LtqLvAwUh0kBO6ji-1
+  Trello : https://trello.com/b/q2t6sdrX/beldi
